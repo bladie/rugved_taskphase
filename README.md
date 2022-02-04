@@ -5,7 +5,7 @@ Week 1:
 1. installed the ubuntu 20.04 (dual boot)
 2. familiarised with github
 3. Over the wire (level 8)
-4.learnt basic Linux commands
+4. learnt basic Linux commands
 
 Week 2:
 
