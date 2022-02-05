@@ -11,4 +11,4 @@ Week 2:
 
 1. got familiarised with python basics
 2. 4 stars on hackerank (python)
-3. done with numpy,pandas
+3. done with numpy,pandas, matlplotlib
