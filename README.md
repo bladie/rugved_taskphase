@@ -11,6 +11,6 @@ Week 2:
 
 1. got familiarised with python basics
 2. 4 stars on hackerank (python)
-3. done with numpy,pandas, matlplotlib
+3. done with numpy,pandas
 
   [bollywood-1 csv file](https://github.com/bladie/rugved_taskphase/blob/main/bollywoodtp.ipynb)
